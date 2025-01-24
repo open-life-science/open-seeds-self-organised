@@ -1,207 +1,47 @@
-# Template for setting up reproducible projects
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+# Open Seeds Self-organised 
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
+Welcome! This is the [Self-Organised](https://we-are-ols.org/openseeds/) (OLS- Self-Organised) program repository. 
+This repository will be used to provide resources for individuals and communities who want to run the OLS Open Seeds program but couldn't get a chance to participate during the earlier cohorts. Also, the resources here could be useful to folks who want to run the program self-space and independently
 
-## About this Repository
 
-This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
-This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
+### Participation Guidelines
 
-This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
+Open Life Science participants adhere to a [code of conduct](CODE_OF_CONDUCT.md). 
+By participating, you are expected to uphold this code. Please report unacceptable behaviour to [team@we-are-ols.org](mailto:team@we-are-ols.org).
 
-### Using this Repository
+### Graduation guide
 
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
+To learn about graduation criteria and process, please visit this [Graduation Guide](https://we-are-ols.org/openseeds/cohort-procedures-and-templates/graduation-guide.html).
 
-**Image Description:**
+For communities, running this program we advise that  you organize graduation as part of the course please consider rehearsing before time  using this template [rehearsal/feedback session on Week 15](https://annuel2.framapad.org/p/ols-9-week-15) and and the graduation using this [graduation calls on Week 16](https://annuel2.framapad.org/p/ols-9-week-15).
 
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
+Both documents also provide important steps to follow before your graduation.
 
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
+## Important resources
 
-<!--If reusing this repository, delete this section -->
-## About README
+Please visit notes to find out structure of the programme, notes taken during the session as well as assignments shared at the end of the cohort calls.
 
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
+| Week | Topic | YouTube Link | Notes | Zenodo link | Cite this as |
+|:-----|:------|:-------------|:------|:-------------|:----------|
+| Week 1 | Onboarding: Welcome to Open Seeds | [Video Recording](https://www.youtube.com/watch?v=KPaMMHLQk6c&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=1) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-01-onboarding/week-01-welcome-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268483) | Sharan, M., & Community, O. (2024, December 3). Open Seeds OLS-9 Week-1 Content - Introduction to Open Seeds. Zenodo. https://doi.org/10.5281/zenodo.14268483 |
+| Week 2 | Tooling for design | [Video Recording](https://www.youtube.com/watch?v=riBa5faSNIs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=2) and [Open Canvas](https://www.youtube.com/watch?v=gQx-au72h04&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=3) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-02/Week-02-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268572) | OLS Community (2024). Open Seeds OLS-9 Week-2 Content - Tooling for Design (open leadership, open canvas, road mapping). Zenodo. https://doi.org/10.5281/zenodo.14268572 |
+| Week 4 | Tooling for collaboration | [Video Recording](https://www.youtube.com/watch?v=HmhQZ--l5U4&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=4) and [Code of Conduct](https://www.youtube.com/watch?v=LAqxVNMwAWs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=5) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-04/Week-04-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268608) | OLS Community (2024). Open Seeds OLS-9 Week-4 Content - Tooling for Collaboration (README, CONTRIBUTION GUIDELINE, CoC). Zenodo. https://doi.org/10.5281/zenodo.14268608 |
+| Week 5 | Skill Up - GitHub for collaboration | [Video Recording](https://www.youtube.com/watch?v=r3skZL5-NVs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=6) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-05/Week-05-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268644) | OLS Community (2024). Open Seeds OLS-9 Week-5 Content - Version Control and GitHub for Collaboration - Skill Up. Zenodo. https://doi.org/10.5281/zenodo.14268644 |
+| Week 6 | Open Science Module 1 (open science introduction, open data, open education) | [Video Recording](https://www.youtube.com/watch?v=C8ukpzAUKEw&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=7) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-06/Week-06-notes.md) | [Slides and Assignments](https://zenodo.org/records/14268665) | OLS Community (2024). Open Seeds OLS-9 Week-6 Content - Open Science Module 1 (open science introduction, open data, open education). Zenodo. https://doi.org/10.5281/zenodo.14268665 |
+| Week 8 | Community Management 1 (community interaction, user-centered design and Mountain of Engagement) | [Video Recording](https://www.youtube.com/watch?v=1z3kjayErsE&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=8) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-08/Week-08-notes.md) | [Slides and Assignments](https://zenodo.org/records/14446586) | OLS Community (2024). Open Seeds OLS-9 Week-8 Content - Community Management 1 (community interaction, user-centered design and Mountain of Engagement). Zenodo. https://doi.org/10.5281/zenodo.14446513 |
+| Week 9 |  Skill Up - Open Source Software in Practice | [Video Recording](https://www.youtube.com/watch?v=nD-J3oXJYoo&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=9) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-09/Week-09-notes.md) | [Slides and Assignments](https://zenodo.org/records/14446586) | OLS Community (2024). Open Seeds OLS-9 Week-9 Content - Skill Up - Open Source Software in Practice. Zenodo. https://doi.org/10.5281/zenodo.14446586 |
+| Week 10 | Open Science Module 2 (open access, open evaluation, open software) | [Video Recording](https://www.youtube.com/watch?v=26w11UOGrAU&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=11) and [open source esoftware](https://www.youtube.com/watch?v=OskC2LNtPkU&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=10) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-10/Week-10-notes.md) | [Slides and Assignments](https://zenodo.org/records/14446632) | OLS Community (2024). Open Seeds OLS-9 Week-10 Content - Open Science Module 2 (open access, open evaluation, open software). Zenodo. https://doi.org/10.5281/zenodo.14446632 |
+| Week 11 | Skill up - Personal Ecology and Care | [Video Recording](https://www.youtube.com/watch?v=RZGRbkQRAh0&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=12) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-11/Week-11-notes.md) | [Slides and Assignments](https://zenodo.org/records/14446699 ) | OLS Community (2024). Open Seeds OLS-9 Week-11 Content - Skill up - Personal Ecology and Care. Zenodo. https://doi.org/10.5281/zenodo.14446699 |
+| Week 12 | Open Science Module 3 (open hardware, participatory research, knowledge equity) | [Video Recording](https://www.youtube.com/watch?v=ZJYPEqRC8yc&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=13) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-12/Week-12-notes.md) | [Slides and Assignments](https://zenodo.org/records/14446751) | OLS Community (2024). Open Seeds OLS-9 Week-12 Content - Open Science Module 3 (open hardware, participatory research, knowledge equity). Zenodo. https://doi.org/10.5281/zenodo.14446751 |
+| Week 13 | Community Management II (diversity and inclusion, Ally Skills)  | [Video Recording](https://www.youtube.com/watch?v=OI9iG4BBAB4&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=14) | [Notes](https://github.com/open-life-science/ols-9/blob/main/week-05/Week-05-notes.md) | [Slides and Assignments](https://zenodo.org/records/https://zenodo.org/records/14446832) | OLS Community (2024). Open Seeds OLS-9 Week-13 Content - Community Management 2 (diversity and inclusion, Ally Skills). Zenodo. https://doi.org/10.5281/zenodo.14446832 |
 
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
+## How to use GitHub issue!
 
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
-```
-# Project Quick Start
-
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
-
-*A sentence summarising what to expect from this repository*  
-
-## Vision and Mission
-
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
-
-## About
-
-Motivation and background in a nutshell.
-
-## Roadmap & Milestones
-
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
-
-## The Team
-
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
-
-## Contributing
-
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
-
-## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
-
-## Citing & Acknowledgement
-
-- **Citation Instructions:** How to cite the project.
-- **Acknowledgment:** Recognising contributions by different members.
+* All the participants/project groups going through OLS Self-organised should open an issue to keep track of their progress during the program.
+  * [Click on this link](https://github.com/open-life-science/ols-self-organised/issues/new?assignees=&labels=&projects=&template=project.md&title=) to edit and create an issue for your project.
+* Each issue will provide details for a project currently going through OLS self-organised: [https://github.com/open-life-science/ols-self-organised/issues](https://github.com/open-life-science/ols-self-organised/issues). 
+  * Find out more about each project and comment on the individual issue to share thoughts and provide feedback.
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-```
-
-
-<!--If reusing this repository, delete this section -->
-
-## Repo Structure
-
-Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecutter-data-science).
-
-```
-├── LICENSE
-├── README.md          <- The top-level README for users of this project.
-├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
-├── CONTRIBUTING.md    <- Information on how to contribute to the project.
-├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
-│
-├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
-│
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
-├── project_management <- Meeting notes and other project planning resources
-│
-├── src                <- Source code for use in this project.
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
-│       └── visualise.py
-└──
-```
-
-**Maintainers**
-
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
-
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
-
-*Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
-
-🎯 Roadmap
----
-
-### Checklist for setting an online repository 
-
-- [ ] Add a README file
-- [ ] Add a [CONTRIBUTING](CONTRIBUTING.md) file
-- [ ] Add a [LICENSE](LICENSE.md)
-- [ ] Add a [Code of Conduct](CODE_OF_CONDUCT.md)
-- [ ] Install [all-contributors](https://allcontributors.org/) bot
-- [ ] .gitignore file (choose from a template)
-- [ ] Issue templates
-    - [ ] Optionally Install [Welcome/behavior](https://github.com/behaviorbot/welcome) bot (see The Turing Way [config](https://github.com/alan-turing-institute/the-turing-way/blob/main/.github/config.yml))
-- [ ] Create a directory with files for project management (meetings, reports, proposals)
-- [ ] Create a directory with files for communications
-- [ ] Create a directory for research analysis
-- [ ] Create a directory for research results/outcomes to share (?)
-- [ ] Create a directory for ethics approval and project policies
-- [ ] Create a directory with files for stakeholders' info and the nature of engagement
-- [ ] Connect repo with Zenodo
-- [ ] Add cff file for citation
-- [ ] Add badges
-
-📫 Contact
----
-
-For any organisation-related queries or concerns, you can directly reach out to Malvika Sharan by emailing [msharan@turing.ac.uk](mailto:msharan@turing.ac.uk).
-
-♻️ License
----
-
-This work is licensed under the MIT license (code) and Creative Commons Attribution 4.0 International license (for documentation).
-You are free to share and adapt the material for any purpose, even commercially,
-as long as you provide attribution (give appropriate credit, provide a link to the license,
-and indicate if changes were made) in any reasonable manner, but not in any way that suggests the
-licensor endorses you or your use and with no additional restrictions.
-
-🤝 Acknowledgement
----
-
-This repository has been created for anyone to reuse -- please attribute us as:
-> This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table>
-  <tbody>
-    <tr>
-      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#ideas-malvikasharan" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-malvikasharan" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/EKaroune"><img src="https://avatars.githubusercontent.com/u/58147174?v=4?s=100" width="100px;" alt="Emma Karoune"/><br /><sub><b>Emma Karoune</b></sub></a><br /><a href="#ideas-EKaroune" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=EKaroune" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://www.aleesteele.com"><img src="https://avatars.githubusercontent.com/u/18509789?v=4?s=100" width="100px;" alt="Anne Lee Steele"/><br /><sub><b>Anne Lee Steele</b></sub></a><br /><a href="#ideas-aleesteele" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=aleesteele" title="Documentation">📖</a></td>
-      <td align="center"><a href="https://github.com/vhellon"><img src="https://avatars.githubusercontent.com/u/93144591?v=4?s=100" width="100px;" alt="Vicky Hellon"/><br /><sub><b>Vicky Hellon</b></sub></a><br /><a href="#ideas-vhellon" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=vhellon" title="Documentation">📖</a></td>
-      <td align="center"><a href="http://jending.com"><img src="https://avatars.githubusercontent.com/u/5104098?v=4?s=100" width="100px;" alt="Jennifer Ding"/><br /><sub><b>Jennifer Ding</b></sub></a><br /><a href="#content-dingaaling" title="Content">🖋</a> <a href="https://github.com/alan-turing-institute/reproducible-project-template/commits?author=dingaaling" title="Documentation">📖</a> <a href="#ideas-dingaaling" title="Ideas, Planning, & Feedback">🤔</a></td>
-      <td align="center"><a href="http://lappland.io"><img src="https://avatars.githubusercontent.com/u/51458?v=4?s=100" width="100px;" alt="Hilmar Lapp"/><br /><sub><b>Hilmar Lapp</b></sub></a><br /><a href="https://github.com/alan-turing-institute/reproducible-project-template/issues?q=author%3Ahlapp" title="Bug reports">🐛</a></td>
-    </tr>
-  </tbody>
-</table>
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+For any questions and information regarding the OLS Self-organised, please email: team@we-are-ols
