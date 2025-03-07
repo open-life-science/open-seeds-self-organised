@@ -29,7 +29,7 @@ Examples: gratitude check-in: “This week I am grateful for …“ OR Weather c
 ## 🖥 About OLS and Open Seeds!
 
 * YouTube video link: 
-* Download slides for this session: https://zenodo.org/records/14268483/files/2024-OLS-9-cohort-onboarding.pdf?download=1 
+* [Download Slides](https://zenodo.org/records/14268483/files/2024-OLS-9-cohort-onboarding.pdf?download=1)
 
 **Notes and self-reflection:**
 

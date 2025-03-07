@@ -1,8 +1,8 @@
-# Open Seeds for Self-Paced and Group Learning
+# OLS - Open Seeds Curriculum
 
-## Welcome
+*Welcome to the Open Seeds program training materials for self-paced and group learning.*
 
-*Welcome to the Open Seeds program training materials.*
+## About OLS
 
 OLS (Open Life Science) is a non-profit organisation that is committed to fostering capacity building and promoting diverse leadership through open science. We aim to create a future where research is accessible, inclusive, and equitable.
 
@@ -18,7 +18,7 @@ Whether you’re new to open science or an experienced practitioner, Open Seeds 
 
 ## The Team
 
-This repository is being developed by the OLS team, specifically as part of the OLS-9 Delivery Team's work.
+This resource is being developed by the OLS team, specifically as part of the OLS-9 Delivery Team's work.
 
 Please contact Seun Olufemi and Malvika Sharan for any question by emailing [team@we-are-ols.org](mailto:team@we-are-ols.org).
 

@@ -1,4 +1,4 @@
-# Learners and Organisers Personas
+# Learner and Organiser Personas
 
 Identify a persona that best matches your expectations from this program either as an Open Seeds learners or/and organiser.
 
@@ -15,6 +15,6 @@ Reference: Tools and Resources for Teaching Programming - [Developed by The Carp
 
 ## Individual learner for self-paced learning
 
-* *Seun* finds these materials and wants to use them for self-paced learning. He has just started a project where he thinks Open Seeds will help him. He is unsure if he has 16 weeks to commit, but he came up with a plan to review training materials in 1 month or that he will take longer than 16 weeks. He uses the 16-week plan to block his calendar where he will catch up with training materials (1.5-2 hours per session).
+* *Seun* finds these materials and wants to use them for self-paced learning. He has just started a project where he thinks Open Seeds will help him. He is unsure if he has 16 weeks to commit, but he came up with a plan to review training materials in his own time. He uses the 16-week plan to block his calendar where he will catch up with training materials (1.5-2 hours per session).
 
 * Open Seeds team have provided materials for mentor-mentee meetings. While an individual learner can decide to not have a mentor, we highly recommend that they identify someone who has experience working in open science or a peer as an “accountability buddy” who they meet every second week (read why we recommend having a mentor or accountability buddy in Open Seeds). In the absence of a mentor or peer, they can use the document provided for progress check-in after each learning session.
