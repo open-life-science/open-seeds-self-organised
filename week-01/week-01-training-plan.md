@@ -1,5 +1,5 @@
 (week-01-training-plan)=
-# Week-01 Training/Learning Plan
+# Week-01 Training Plan
 
 ***Theme: Introduction to Open Science***
 

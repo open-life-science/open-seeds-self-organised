@@ -110,7 +110,7 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 
 [HOST] (10 min) [⏰ 60]
 
-Organisers should add details for the next steps in the Week 1 learning plan.
+Organisers should add details for the next steps in the Week 1 training plan.
 
 ### Feedback about this call that organisers can take into account for the next calls:
 
