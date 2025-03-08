@@ -1,6 +1,5 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
-
 project:
   title: Open Seeds Curriculum
   description: Open Seeds For Self and Group Learning
@@ -29,96 +28,96 @@ project:
         - file: week-01/week-01-assignments.md
         - file: week-01/week-01-group-learning.md
         - file: week-01/week-01-self-learning.md
-    - title: Week 02
-      file: week-02/week-02-training-plan.md
-      children:
-        - file: week-02/week-02-assignments.md
-        - file: week-02/week-02-group-learning.md
-        - file: week-02/week-02-self-learning.md
-    - title: Week 03
-      file: week-03/week-03-training-plan.md
-      children:
-        - file: week-03/week-03-assignments.md
-        - file: week-03/week-03-group-learning.md
-        - file: week-03/week-03-self-learning.md
-    - title: Week 04
-      file: week-04/week-04-training-plan.md
-      children:
-        - file: week-04/week-04-assignments.md
-        - file: week-04/week-04-group-learning.md
-        - file: week-04/week-04-self-learning.md
-    - title: Week 05
-      file: week-05/week-05-training-plan.md
-      children:
-        - file: week-05/week-05-assignments.md
-        - file: week-05/week-05-group-learning.md
-        - file: week-05/week-05-self-learning.md
-    - title: Week 06
-      file: week-06/week-06-training-plan.md
-      children:
-        - file: week-06/week-06-assignments.md
-        - file: week-06/week-06-group-learning.md
-        - file: week-06/week-06-self-learning.md
-    - title: Week 07
-      file: week-07/week-07-training-plan.md
-      children:
-        - file: week-07/week-07-assignments.md
-        - file: week-07/week-07-group-learning.md
-        - file: week-07/week-07-self-learning.md
-    - title: Week 08
-      file: week-08/week-08-training-plan.md
-      children:
-        - file: week-08/week-08-assignments.md
-        - file: week-08/week-08-group-learning.md
-        - file: week-08/week-08-self-learning.md
-    - title: Week 09
-      file: week-09/week-09-training-plan.md
-      children:
-        - file: week-09/week-09-assignments.md
-        - file: week-09/week-09-group-learning.md
-        - file: week-09/week-09-self-learning.md
-    - title: Week 10
-      file: week-10/week-10-training-plan.md
-      children:
-        - file: week-10/week-10-assignments.md
-        - file: week-10/week-10-group-learning.md
-        - file: week-10/week-10-self-learning.md
-    - title: Week 11
-      file: week-11/week-11-training-plan.md
-      children:
-        - file: week-11/week-11-assignments.md
-        - file: week-11/week-11-group-learning.md
-        - file: week-11/week-11-self-learning.md
-    - title: Week 12
-      file: week-12/week-12-training-plan.md
-      children:
-        - file: week-12/week-12-assignments.md
-        - file: week-12/week-12-group-learning.md
-        - file: week-12/week-12-self-learning.md
-    - title: Week 13
-      file: week-13/week-13-training-plan.md
-      children:
-        - file: week-13/week-13-assignments.md
-        - file: week-13/week-13-group-learning.md
-        - file: week-13/week-13-self-learning.md
-    - title: Week 14
-      file: week-14/week-14-training-plan.md
-      children:
-        - file: week-14/week-14-assignments.md
-        - file: week-14/week-14-group-learning.md
-        - file: week-14/week-14-self-learning.md
-    - title: Week 15
-      file: week-15/week-15-training-plan.md
-      children:
-        - file: week-15/week-15-assignments.md
-        - file: week-15/week-15-group-learning.md
-        - file: week-15/week-15-self-learning.md
-    - title: Week 16
-      file: week-16/week-16-training-plan.md
-      children:
-        - file: week-16/week-16-assignments.md
-        - file: week-16/week-16-group-learning.md
-        - file: week-16/week-16-self-learning.md
+    # - title: Week 02
+    #   file: week-02/week-02-training-plan.md
+    #   children:
+    #     - file: week-02/week-02-assignments.md
+    #     - file: week-02/week-02-group-learning.md
+    #     - file: week-02/week-02-self-learning.md
+    # - title: Week 03
+    #   file: week-03/week-03-training-plan.md
+    #   children:
+    #     - file: week-03/week-03-assignments.md
+    #     - file: week-03/week-03-group-learning.md
+    #     - file: week-03/week-03-self-learning.md
+    # - title: Week 04
+    #   file: week-04/week-04-training-plan.md
+    #   children:
+    #     - file: week-04/week-04-assignments.md
+    #     - file: week-04/week-04-group-learning.md
+    #     - file: week-04/week-04-self-learning.md
+    # - title: Week 05
+    #   file: week-05/week-05-training-plan.md
+    #   children:
+    #     - file: week-05/week-05-assignments.md
+    #     - file: week-05/week-05-group-learning.md
+    #     - file: week-05/week-05-self-learning.md
+    # - title: Week 06
+    #   file: week-06/week-06-training-plan.md
+    #   children:
+    #     - file: week-06/week-06-assignments.md
+    #     - file: week-06/week-06-group-learning.md
+    #     - file: week-06/week-06-self-learning.md
+    # - title: Week 07
+    #   file: week-07/week-07-training-plan.md
+    #   children:
+    #     - file: week-07/week-07-assignments.md
+    #     - file: week-07/week-07-group-learning.md
+    #     - file: week-07/week-07-self-learning.md
+    # - title: Week 08
+    #   file: week-08/week-08-training-plan.md
+    #   children:
+    #     - file: week-08/week-08-assignments.md
+    #     - file: week-08/week-08-group-learning.md
+    #     - file: week-08/week-08-self-learning.md
+    # - title: Week 09
+    #   file: week-09/week-09-training-plan.md
+    #   children:
+    #     - file: week-09/week-09-assignments.md
+    #     - file: week-09/week-09-group-learning.md
+    #     - file: week-09/week-09-self-learning.md
+    # - title: Week 10
+    #   file: week-10/week-10-training-plan.md
+    #   children:
+    #     - file: week-10/week-10-assignments.md
+    #     - file: week-10/week-10-group-learning.md
+    #     - file: week-10/week-10-self-learning.md
+    # - title: Week 11
+    #   file: week-11/week-11-training-plan.md
+    #   children:
+    #     - file: week-11/week-11-assignments.md
+    #     - file: week-11/week-11-group-learning.md
+    #     - file: week-11/week-11-self-learning.md
+    # - title: Week 12
+    #   file: week-12/week-12-training-plan.md
+    #   children:
+    #     - file: week-12/week-12-assignments.md
+    #     - file: week-12/week-12-group-learning.md
+    #     - file: week-12/week-12-self-learning.md
+    # - title: Week 13
+    #   file: week-13/week-13-training-plan.md
+    #   children:
+    #     - file: week-13/week-13-assignments.md
+    #     - file: week-13/week-13-group-learning.md
+    #     - file: week-13/week-13-self-learning.md
+    # - title: Week 14
+    #   file: week-14/week-14-training-plan.md
+    #   children:
+    #     - file: week-14/week-14-assignments.md
+    #     - file: week-14/week-14-group-learning.md
+    #     - file: week-14/week-14-self-learning.md
+    # - title: Week 15
+    #   file: week-15/week-15-training-plan.md
+    #   children:
+    #     - file: week-15/week-15-assignments.md
+    #     - file: week-15/week-15-group-learning.md
+    #     - file: week-15/week-15-self-learning.md
+    # - title: Week 16
+    #   file: week-16/week-16-training-plan.md
+    #   children:
+    #     - file: week-16/week-16-assignments.md
+    #     - file: week-16/week-16-group-learning.md
+    #     - file: week-16/week-16-self-learning.md
 exports:
   - format: pdf
     template: lapreprint-typst
@@ -128,3 +127,4 @@ site:
   options:
   #   favicon: favicon.ico
     logo: figures/logo.png
+
