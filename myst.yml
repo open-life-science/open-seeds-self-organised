@@ -28,6 +28,13 @@ project:
         - file: week-01/week-01-assignments.md
         - file: week-01/week-01-group-learning.md
         - file: week-01/week-01-self-learning.md
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+    logo: figures/logo.png
+    
+## Remaining week's curriculum to add as they develop    
     # - title: Week 02
     #   file: week-02/week-02-training-plan.md
     #   children:
@@ -118,13 +125,5 @@ project:
     #     - file: week-16/week-16-assignments.md
     #     - file: week-16/week-16-group-learning.md
     #     - file: week-16/week-16-self-learning.md
-exports:
-  - format: pdf
-    template: lapreprint-typst
-    articles: open-seeds.md
-site:
-  template: book-theme
-  options:
-  #   favicon: favicon.ico
-    logo: figures/logo.png
+
 
