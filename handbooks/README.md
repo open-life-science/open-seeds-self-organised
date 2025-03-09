@@ -1,1 +1,1 @@
-Add image files here.
+Add all handbooks and related files here.
