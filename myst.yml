@@ -28,6 +28,9 @@ project:
         - file: week-01/week-01-assignments.md
         - file: week-01/week-01-group-learning.md
         - file: week-01/week-01-self-learning.md
+  exports:
+    - format: pdf
+      template: plain_latex
 site:
   template: book-theme
   options:
