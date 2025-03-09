@@ -4,12 +4,9 @@
 
 The [Open Seeds program](https://we-are-ols.org/openseeds/) by OLS is for people interested in applying open principles in their work and becoming Open Science ambassadors in their communities.
 
-We're delighted to welcome you as you explore and use these resources! You're joining a long list of individuals passionate about open science, open leadership, and collaborative learning.
+We are delighted you' are here, joining a long list of individuals and communities passionate about open science, leadership, and collaborative learning.
 
-These resources are designed to share with you the knowledge and skills to cultivate open practices in your work and beyond.
-Whether you're a longstanding open advocate or just beginning your journey, you'll find valuable resources and support here.
-
-We are excited to be part of this lifelong learning process!
+These resources are designed to equip you with the knowledge and skills to cultivate open practices in your work, regardless of your experience level.
 
 ## Here's What You Can Expect
 
