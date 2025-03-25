@@ -25,21 +25,15 @@ project:
     - title: Week 01
       file: week-01/week-01-training-plan.md
       children:
-        - title: Week 01 Assignments
-          file: week-01/week-01-assignments.md
-        - title: Week 01 - Group-Based Learning
-          file: week-01/week-01-group-learning.md
-        - title: Week 01 - Self-Paced Learning
-          file: week-01/week-01-self-learning.md
+        - file: week-01/week-01-assignments.md
+        - file: week-01/week-01-group-learning.md
+        - file: week-01/week-01-self-learning.md
     - title: Week 02
       file: week-02/week-02-training-plan.md
       children:
-        - title: Week 02 Assignments
-          file: week-02/week-02-assignments.md
-        - title: Week 02 - Group-Based Learning
-          file: week-02/week-02-group-learning.md
-        - title: Week 02 - Self-Paced Learning
-          file: week-02/week-02-self-learning.md
+        - file: week-02/week-02-assignments.md
+        - file: week-02/week-02-group-learning.md
+        - file: week-02/week-02-self-learning.md
   exports:
     - format: pdf
       template: plain_latex
