@@ -1,5 +1,5 @@
 (week-01-group-learning)=
-# Week 01: Welcome to Open Seeds 
+# Week 01 Group Learning
 
 ## Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
 
@@ -8,7 +8,7 @@
 * Duration: 60 min
 * Call Facilitators: 
 
-### Housekeeping 
+### Welcome to Open Seeds: Housekeeping 
 
 * Review the shared notes for this week (organisers will have copied this template)
 * Make sure you have access to this week’s resources (see week 01 info)
