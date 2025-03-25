@@ -1,11 +1,10 @@
 (week-01-self-learning)=
-# Week 01: Welcome to Open Seeds
-
+# Week 01 Self Learning
 * Date: 
 * Time: 
 * Duration: 60 min
 
-### Housekeeping 
+### Welcome to Open Seeds: Housekeeping 
 
 * Make a copy of this week’s template 
 * Download slides and resources needed for this week
