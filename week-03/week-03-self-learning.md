@@ -1,16 +1,23 @@
 (week-03-self-learning)=
 # Week 03 Self-Paced Learning Notes
 
-This week offers an opportunity for self-directed learning. Use this time to:
+This week provides an opportunity for both self-directed learning and connecting with your mentor or accountability buddy to reflect on your learning journey.
 
-* **Review** the resources introduced in the previous weeks.
-* **Reflect** on the assignments and documentation you've begun working on.
+Use this time to:
+
+* **Review** the resources introduced in previous weeks.
+* **Reflect** on the assignments and documentation you've started working on.
 * **Draw inspiration** from other Open Seeds projects.
 
 To facilitate this self-reflection process, here's a checklist:
 
-* Review training plans from the previous weeks and reflect on your learning so far!
-* Review assignments you have developed for your personal work - identify where you have some gaps to fill
-* You can review notes and assignments from some of our previous cohort members shared on OLS's GitHub repos for (Open Seeds [OLS-1](https://github.com/open-life-science/ols-1/issues), [OLS-2](https://github.com/open-life-science/ols-2/issues), [OLS-3](https://github.com/open-life-science/ols-3/issues) and so on until [OLS-9](https://github.com/open-life-science/ols-9/issues).
+* Review training plans from previous weeks and reflect on your learning progress so far.
+* Review the assignments you have developed for your personal work – identify areas where you need to fill in gaps.
+* Explore notes and assignments from previous cohort members shared on OLS's GitHub repositories for Open Seeds:
+    * [OLS-1](https://github.com/open-life-science/ols-1/issues)
+    * [OLS-2](https://github.com/open-life-science/ols-2/issues)
+    * [OLS-3](https://github.com/open-life-science/ols-3/issues)
+    * ...and so on, up to [OLS-9](https://github.com/open-life-science/ols-9/issues).
+* If you are meeting with your mentor or accountability buddy, bring your assignments and discuss them, focusing particularly on your progress and areas where you need their feedback.
 
 Happy learning!
