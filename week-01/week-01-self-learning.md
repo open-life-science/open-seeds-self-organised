@@ -1,5 +1,5 @@
 (week-01-self-learning)=
-# Week 01: Welcome to Open Seeds
+# Week 01 Self-Paced Learning Notes
 
 * Date: 
 * Time: 
