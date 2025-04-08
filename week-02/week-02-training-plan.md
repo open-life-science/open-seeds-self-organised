@@ -1,7 +1,5 @@
 (week-02-training-plan)=
-# Week-02 Training Plan
-
-**Theme: Tooling for Project Design**
+# Week-02: Tooling for Project Design
 
 Download all presentations and assignments for week 02: [https://doi.org/10.5281/zenodo.14268572](https://doi.org/10.5281/zenodo.14268572) 
 
