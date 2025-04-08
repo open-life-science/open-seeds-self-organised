@@ -1,4 +1,9 @@
-# Week 02: Tooling for design- Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
+(week-02-group-learning)=
+# Week 02 Group-Based Learning Notes
+
+**Theme: Tooling for design**
+
+## Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
 
 * Date: 
 * Time:
