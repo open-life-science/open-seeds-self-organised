@@ -3,6 +3,8 @@
 
 ***Note Template***
 
+## Theme: Introduction to Open Science
+
 * Date: 
 * Time: 
 * Duration: 60 min
