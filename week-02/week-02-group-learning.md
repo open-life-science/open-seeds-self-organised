@@ -166,5 +166,5 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 *
 *
 
-*Licence: CC BY 4.0, Open Life Science (OLS), 2024*
+*Licence: CC BY 4.0, Open Life Science (OLS), 2025*
 
