@@ -1,5 +1,7 @@
 (week-01-self-learning)=
-# Week 01 Self-Paced Learning Notes
+# Week 01 Self-Paced Learning
+
+***Note Template***
 
 * Date: 
 * Time: 
