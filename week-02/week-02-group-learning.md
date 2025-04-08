@@ -59,8 +59,8 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 ## 🖥 Open Science for Open Leadership
 
 * YouTube video link:
-* Slides: 
-  
+* Slides: [on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20open%20leadership.pdf?download=1)   
+
 ## 👥 ⚡️Get to know each other⚡️: Breakout Discussion
 
 [HOST] (10 min)[⏰ 20]
@@ -81,8 +81,7 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 [HOST] (15 min)[⏰ 35]
 
 * YouTube video link: https://www.youtube.com/watch?v=riBa5faSNIs&list=PL1CvC6Ez54KBD7zi7YSSS_L_WH87w5eo1&index=3 
-* Slides: https://doi.org/10.5281/zenodo.14268572
-
+* Slides: [on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Tooling%20for%20Project%20Design.pptx?download=1)   
 
 ### 🏗️ Tracking your progress in Open Seeds
 
@@ -98,7 +97,7 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 [HOST] (10 min + 5 min for questions) [⏰ 60]
 
 * YouTube video link:
-* Slides: 
+* Slides: * [on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20for%20Project%20Strategy.pptx?download=1)  
 
 ### Notes, Questions and Comments!
 
@@ -122,8 +121,9 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 
 [Host] (10 min + 5 min for questions) [⏰ 85]
 
-
-
+* YouTube video link: 
+* Slides: [on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Roadmapping.pptx?download=1) 
+  
 ### Notes, Questions and Comments!
 
 * 
