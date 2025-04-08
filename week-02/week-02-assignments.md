@@ -1,4 +1,6 @@
-**Assignments after you have completed the learning plan for week 02:**
+(week-02-assignments)=
+# Week 02 Assignments
+
 
 Create these resources for your project:
 
