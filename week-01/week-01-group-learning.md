@@ -1,5 +1,5 @@
 (week-01-group-learning)=
-# Week 01: Welcome to Open Seeds 
+# Week 01 Group-Based Learning Notes
 
 ## Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
 

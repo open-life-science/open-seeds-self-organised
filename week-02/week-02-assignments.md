@@ -28,4 +28,3 @@ After you have completed the training plan for week 02, start creating these res
 
 * Based on your vision, what are some  short-term goals? What do you need to do to get there?
 * How would you know that you are making progress towards your goals? What are some milestones?
-
