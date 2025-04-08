@@ -1,6 +1,8 @@
 (week-01-group-learning)=
 # Week 01 Group-Based Learning Notes
 
+***Note Template***
+
 ## Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
 
 * Date: 
