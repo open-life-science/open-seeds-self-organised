@@ -4,7 +4,8 @@
 
 Download all presentations and assignments for week 02: [https://doi.org/10.5281/zenodo.14268572](https://doi.org/10.5281/zenodo.14268572) 
 
-*When reusing, please cite this resource as: OLS Community (2024). Open Seeds OLS-9 Week-2 Content \- Tooling for Design (open leadership, open canvas, road mapping). Zenodo. [https://doi.org/10.5281/zenodo.14268572](https://doi.org/10.5281/zenodo.14268572)* 
+*When reusing, please cite this resource as: OLS Community (2024). Open Seeds OLS-9 Week-2 Content - Tooling for Design (open leadership, open canvas, road mapping). Zenodo. [https://doi.org/10.5281/zenodo.14268572](https://doi.org/10.5281/zenodo.14268572)* 
+
 
 ## Week 02 Objectives:
 
