@@ -1,6 +1,8 @@
 (week-02-group-learning)=
 # Week 02 Group-Based Learning
 
+***Note Template***
+
 ## Theme: Tooling for design
 
 ### Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
