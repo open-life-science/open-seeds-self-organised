@@ -3,6 +3,8 @@
 
 ***Note Template***
 
+## Theme: Introduction to Open Science
+
 ## Organised by [ADD ORGANISERS' NAMES AND AFFILIATION AS NEEDED]!
 
 * Date: 
