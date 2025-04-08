@@ -30,7 +30,7 @@ Download all presentations and assignments for week 02: [https://doi.org/10.5281
 ## Learning plan for this week 02:
 
 * For self-paced learning, please create a copy of {ref}`Week 02 Self-Paced Template<week-02-self-learning>`
-* For self-paced learning, please create a copy of {ref}`Week 02 Group-Based Template<week-02-group-learning.md>`
+* For group-based learning, please create a copy of {ref}`Week 02 Group-Based Template<week-02-group-learning.md>`
 
 
 ## Slides to link in Week 02 Notes:
