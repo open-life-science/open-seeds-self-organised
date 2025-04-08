@@ -1,5 +1,7 @@
 # Week 02 Self-Paced Learning
 
+Note Template
+
 ## Theme: Tooling for design
 
 Date:
@@ -22,7 +24,7 @@ Duration: 90 min
 
 ### Before you get started!
 
-*How have your first few weeks learning in Open Seeds been? Write down a word, a gif, a song or something else to express how you are feeling about your project as a lead and/or team member.*
+*How have your first few weeks of learning in Open Seeds been? Write down a word, a gif, a song or something else to express how you are feeling about your project as a lead and/or team member.*
 
 *
 
