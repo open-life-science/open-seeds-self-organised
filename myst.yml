@@ -40,6 +40,24 @@ project:
           file: week-02/week-02-group-learning.md
         - title: Week 02 - Self-Paced Learning
           file: week-02/week-02-self-learning.md
+   - title: Week 03
+      file: week-03/week-03-training-plan.md
+      children:
+        - title: Week 03 Assignments
+          file: week-03/week-03-assignments.md
+        - title: Week 03 - Group-Based Learning
+          file: week-03/week-03-group-learning.md
+        - title: Week 03 - Self-Paced Learning
+          file: week-03/week-03-self-learning.md
+   - title: Week 04
+      file: week-04/week-04-training-plan.md
+      children:
+        - title: Week 04 Assignments
+          file: week-04/week-04-assignments.md
+        - title: Week 04 - Group-Based Learning
+          file: week-04/week-04-group-learning.md
+        - title: Week 04 - Self-Paced Learning
+          file: week-04/week-04-self-learning.md
   exports:
     - format: pdf
       template: plain_latex
@@ -50,24 +68,7 @@ site:
     logo: figures/logo.png
     
 ## Remaining week's curriculum to add as they develop    
-    # - title: Week 02
-    #   file: week-02/week-02-training-plan.md
-    #   children:
-    #     - file: week-02/week-02-assignments.md
-    #     - file: week-02/week-02-group-learning.md
-    #     - file: week-02/week-02-self-learning.md
-    # - title: Week 03
-    #   file: week-03/week-03-training-plan.md
-    #   children:
-    #     - file: week-03/week-03-assignments.md
-    #     - file: week-03/week-03-group-learning.md
-    #     - file: week-03/week-03-self-learning.md
-    # - title: Week 04
-    #   file: week-04/week-04-training-plan.md
-    #   children:
-    #     - file: week-04/week-04-assignments.md
-    #     - file: week-04/week-04-group-learning.md
-    #     - file: week-04/week-04-self-learning.md
+
     # - title: Week 05
     #   file: week-05/week-05-training-plan.md
     #   children:
