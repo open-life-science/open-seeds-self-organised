@@ -35,10 +35,11 @@ Download all presentations and assignments for week 02: [https://doi.org/10.5281
 
 ## Slides to link in Week 02 Notes:
 
-* Open Science for Open Leadership: [https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20open%20leadership.pdf?download=1](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20open%20leadership.pdf?download=1)   
-* Introducing Tooling for Project Design: [https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Tooling%20for%20Project%20Design.pptx?download=1](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Tooling%20for%20Project%20Design.pptx?download=1)   
-* Introducing Open Canvas: [https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20for%20Project%20Strategy.pptx?download=1](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20for%20Project%20Strategy.pptx?download=1)   
-* Introducing Project road mapping: [https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Roadmapping.pptx?download=1](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Roadmapping.pptx?download=1) 
+* Open Science for Open Leadership: [Slide Deck on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20open%20leadership.pdf?download=1)   
+* Introducing Tooling for Project Design: [Slide Deck on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Tooling%20for%20Project%20Design.pptx?download=1)   
+* Introducing Open Canvas: [Slide Deck on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Open%20Canvas%20for%20Project%20Strategy.pptx?download=1)   
+* Introducing Project road mapping: [Slide Deck on Zenodo](https://zenodo.org/records/14268572/files/%5BOLS-9%5D%20Week%2002%20-%20Roadmapping.pptx?download=1) 
+
 
 ## Assignments after you have completed the learning plan for week 02:
 
