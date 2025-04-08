@@ -1,4 +1,5 @@
-# Week 02
+(week-02-training-plan)=
+# Week-02 Training Plan
 
 **Theme: Tooling for Project Design**
 
