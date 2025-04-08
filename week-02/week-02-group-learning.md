@@ -135,7 +135,7 @@ If hosting this call under OLS, use: [https://we-are-ols.org/code-of-conduct](ht
 
 ### Assignments
 
-
+* Organisers should add details for the {ref}`Week 2 Assignments<week-02-assignments>`.
 
 ### Are you new to GitHub?
 
