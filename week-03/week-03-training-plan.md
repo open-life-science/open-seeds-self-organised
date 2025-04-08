@@ -1,5 +1,5 @@
 (week-03-training-plan)=
-# Week 03: Review
+# Week 03: Review Week
 
 This week is for you to catch up on the various concepts you learned over the last two weeks. Also, this is a perfect opportunity to meet your mentor or accountability buddy to discuss your progress and ask any questions about the training plans and assignments.
 
