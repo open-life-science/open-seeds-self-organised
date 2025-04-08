@@ -41,8 +41,8 @@ project:
         - title: Week 02 - Self-Paced Learning
           file: week-02/week-02-self-learning.md
    - title: Week 03 - Review Week
-      file: week-03/week-03-training-plan.md
-      children:
+    file: week-03/week-03-training-plan.md
+    children:
         - title: Week 03 Assignments
           file: week-03/week-03-assignments.md
         - title: Week 03 - Group-Based Learning
@@ -50,8 +50,8 @@ project:
         - title: Week 03 - Self-Paced Learning
           file: week-03/week-03-self-learning.md
    - title: Week 04 - Tooling for Collaboration
-      file: week-04/week-04-training-plan.md
-      children:
+    file: week-04/week-04-training-plan.md
+    children:
         - title: Week 04 Assignments
           file: week-04/week-04-assignments.md
         - title: Week 04 - Group-Based Learning
