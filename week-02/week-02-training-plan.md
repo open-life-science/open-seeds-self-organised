@@ -27,7 +27,11 @@ Download all presentations and assignments for week 02: [https://doi.org/10.5281
 * Reflect on the roadmap for your project with milestones \- start drafting them with descriptions and tasks
 
 
-## Learning plan for this week 02:The learning plans for [self learning Individual](https://github.com/open-life-science/open-seeds-self-organised/blob/main/week-02/week-02-self-learning.md), for [group/cohort learning](https://github.com/open-life-science/open-seeds-self-organised/blob/main/week-02/week-02-group-learning.md)
+## Learning plan for this week 02:
+
+* For self-paced learning, please create a copy of {ref}`Week 02 Self-Paced Template<week-02-self-learning>`
+* For self-paced learning, please create a copy of {ref}`Week 02 Group-Based Template<week-02-group-learning.md>`
+
 
 ## Slides to link in Week 02 Notes:
 
