@@ -22,7 +22,7 @@ project:
     - title: Background
       file: README.md
     - file: personas.md
-    - title: Week 01
+    - title: Week 01 - Introduction to Open Science
       file: week-01/week-01-training-plan.md
       children:
         - title: Week 01 Assignments
@@ -31,7 +31,7 @@ project:
           file: week-01/week-01-group-learning.md
         - title: Week 01 - Self-Paced Learning
           file: week-01/week-01-self-learning.md
-    - title: Week 02
+    - title: Week 02 - Tooling for Project Design
       file: week-02/week-02-training-plan.md
       children:
         - title: Week 02 Assignments
@@ -40,7 +40,7 @@ project:
           file: week-02/week-02-group-learning.md
         - title: Week 02 - Self-Paced Learning
           file: week-02/week-02-self-learning.md
-   - title: Week 03
+   - title: Week 03 - Review Week
       file: week-03/week-03-training-plan.md
       children:
         - title: Week 03 Assignments
@@ -49,7 +49,7 @@ project:
           file: week-03/week-03-group-learning.md
         - title: Week 03 - Self-Paced Learning
           file: week-03/week-03-self-learning.md
-   - title: Week 04
+   - title: Week 04 - Tooling for Collaboration
       file: week-04/week-04-training-plan.md
       children:
         - title: Week 04 Assignments
