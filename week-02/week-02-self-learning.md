@@ -1,4 +1,7 @@
-# Week 02 - Tooling for design
+# Week 02 Self-Paced Learning
+
+## Theme: Tooling for design
+
 Date:
 Time:
 Duration: 90 min
