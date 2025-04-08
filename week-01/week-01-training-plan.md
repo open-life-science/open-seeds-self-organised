@@ -1,7 +1,5 @@
 (week-01-training-plan)=
-# Week-01 Training Plan
-
-***Theme: Introduction to Open Science***
+# Week-01: Introduction to Open Science
 
 ## Week 01 Objectives
 
