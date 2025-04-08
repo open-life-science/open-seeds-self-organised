@@ -19,11 +19,6 @@ After you have completed the training plan for week 02, start creating these res
 
 * Complete this compare and contrast assignment about current and desired community interactions and value exchanges: [Template Link](https://zenodo.org/records/14268572/files/%5BMAKE%20A%20COPY%5D%20Week%2002%20-%20Compare%26Contrast.docx?download=1%20) (make a personal copy)
 
-**Any insights/thoughts/comments? Take notes below!**
-
-* 
-*
-
 ## 3. Roadmap for your project
 
 * Start your Roadmap draft: [Template Link](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/) (make a personal copy)
@@ -33,5 +28,3 @@ After you have completed the training plan for week 02, start creating these res
 
 * Based on your vision, what are some  short-term goals? What do you need to do to get there?
 * How would you know that you are making progress towards your goals? What are some milestones?
-
-
