@@ -16,9 +16,7 @@ Whether you’re new to open science or an experienced practitioner, Open Seeds 
 
 ## The OLS Team
 
-This repository is being developed by the OLS team, specifically as part of the OLS-9 Delivery Team's work.
-
-Please contact Sara Villa and Malvika Sharan for any question by emailing [team@we-are-ols.org](mailto:team@we-are-ols.org).
+This repository is being developed by the OLS team. Please contact the current contributors Sara Villa and Malvika Sharan for any question by emailing [team@we-are-ols.org](mailto:team@we-are-ols.org).
 
 ## Contributing
 
